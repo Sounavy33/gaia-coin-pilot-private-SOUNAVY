@@ -1,0 +1,41 @@
+# Backup Manifest
+
+This private pilot repo is a snapshot backup of the original repository.
+
+Source repo: Sounavy33/gaia-coin-r44
+Snapshot SHA: 1bf79e3405a25a8e3a71b901266b1d82cb297eac
+
+Files copied from original snapshot:
+- .github/workflows/python-tests.yml
+- .gitignore
+- .zenodo.json
+- LICENSE
+- README.md
+- docs/black_box.md
+- docs/box_violeta.md
+- docs/boxes.md
+- docs/gaia_ecosystem_architecture.md
+- docs/gate_hub.md
+- docs/gate_hub_box_violeta.md
+- docs/llm_choice.md
+- docs/migration.md
+- docs/mobile_architecture.md
+- docs/mobile_runtime_guide.md
+- gaia_coin_r44_master.py
+- policy.json
+- scripts/adapter_manager.py
+- scripts/audit_sign.py
+- scripts/dictionary_manager.py
+- scripts/gaia_context.py
+- scripts/nomenclature.py
+- scripts/policy_enforcer.py
+- scripts/transcription_pipeline.py
+- scripts/vector_store_export.py
+- tests/test_audit_sign.py
+- tests/test_bot_bill.py
+- tests/test_gaia_coin.py
+- tests/test_gaia_local.py
+- tests/test_migration_and_adapters.py
+- tests/test_nomenclature.py
+- tests/test_policy_enforcer.py
+- tests/test_transcription_pipeline.py
